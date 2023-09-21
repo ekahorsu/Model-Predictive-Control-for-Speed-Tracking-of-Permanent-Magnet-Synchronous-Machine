@@ -1,0 +1,1 @@
+# Model-Predictive-Control-for-Speed-Tracking-of-Permanent-Magnet-Synchronous-Machine
